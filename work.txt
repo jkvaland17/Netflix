@@ -1,0 +1,6 @@
+Props
+component
+if else React
+Ternary oprator
+slot machinne
+react hook

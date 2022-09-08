@@ -18,6 +18,7 @@ body{
   float: left;
   background-color: aliceblue;
   border-radius: 10px;
+  color: rgb(66, 66, 66);
 }
 
 .card:hover {

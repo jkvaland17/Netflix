@@ -27,7 +27,7 @@ let Data = [
     id: 4,
     imgsrc:
       "https://m.media-amazon.com/images/M/MV5BM2QzMWM5OTgtZDE1MC00ZmMyLWIyODItMmQ4NjNlZGRjYTUzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
-    titel: "A Netflix Orignal Series",
+    titel: "A Amazon Prime Series",
     snma: "Inventing Anna",
     link: "https://www.netflix.com/in/title/81008305",
   },
@@ -43,7 +43,7 @@ let Data = [
     id: 6,
     imgsrc:
       "https://m.media-amazon.com/images/M/MV5BZjgwOGI3ZWEtNjBiMy00ZjM3LWFkNWYtNmU1MzY1ZGZkMDU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
-    titel: "A Netflix Orignal Series",
+    titel: "A Amazon Prime Series",
     snma: "Vikings: Valhalla",
     link: "https://www.netflix.com/in/title/81149450",
   },

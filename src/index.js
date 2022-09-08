@@ -4,6 +4,9 @@ import "./index.css";
 import Card from "./Card";
 import Data from "./Data";
 
+
+const favSeries = "netflix";
+
 let ncard = (val) => {
   return (
     <Card
